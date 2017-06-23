@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.coutlootinventory">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:name=".InventoryApplication"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label=""
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+
+    <activity
+            android:name=".LoginActivity"
+            android:label="Coutloot Inventory">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Stock.ScanQRCode"
+            android:parentActivityName=".MainPackages.Home" />
+        <activity
+            android:name=".MainPackages.Home"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+        <activity
+            android:name=".Stock.StockDetails"
+            android:label="Product Details"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+        <activity
+            android:name=".Stock.StockList"
+            android:label="Products"
+            android:parentActivityName=".MainPackages.Home" />
+        <activity android:name=".EditProductDetails"></activity>
+    </application>
+
+</manifest>

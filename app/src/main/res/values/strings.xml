@@ -1,0 +1,466 @@
+<resources>
+    <string name="app_name">CoutlootInventory</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <array name="brands">
+        <item>Aakriti</item>
+        <item>Abercrombie &amp; Fitch</item>
+        <item>Abof</item>
+        <item>Accessorize</item>
+        <item>Adam &amp; Eva</item>
+        <item>Adidas</item>
+        <item>Adore</item>
+        <item>Aeropostale</item>
+        <item>Ajio</item>
+        <item>Aldo</item>
+        <item>Alexander Mcqueen</item>
+        <item>Alia Bhatt For Jabong </item>
+        <item>All About You</item>
+        <item>Allen Solly</item>
+        <item>Alpana Neeraj</item>
+        <item>Amari West</item>
+        <item>Amazon </item>
+        <item>American Eagle Outfitters</item>
+        <item>Amisu</item>
+        <item>Anabella</item>
+        <item>Anaphora</item>
+        <item>Ann Taylor</item>
+        <item>Anna Sui</item>
+        <item>Armani</item>
+        <item>Armani Exchange</item>
+        <item>Armani Jeans</item>
+        <item>Asos</item>
+        <item>Astha Narang</item>
+        <item>Atmosphere</item>
+        <item>Ax-Paris</item>
+        <item>Baggit </item>
+        <item>Balenciaga</item>
+        <item>Balmain Paris</item>
+        <item>Banana Republic</item>
+        <item>Bcbg Max Azria</item>
+        <item>Bebe</item>
+        <item>Bisou Bisou</item>
+        <item>Bizzare</item>
+        <item>Blackberry</item>
+        <item>Blush</item>
+        <item>Bon Fedora</item>
+        <item>Bon Nuit</item>
+        <item>Bonhomie</item>
+        <item>Boohoo</item>
+        <item>Bottega Veneta</item>
+        <item>Bruno Manetti</item>
+        <item>Bunaai</item>
+        <item>Burberry</item>
+        <item>Butterfly</item>
+        <item>Canali</item>
+        <item>Cages</item>
+        <item>Caldo</item>
+        <item>Calgari</item>
+        <item>Calico</item>
+        <item>Call It Spring</item>
+        <item>Calliope</item>
+        <item>Calvin Klein</item>
+        <item>Candidly Couture</item>
+        <item>Carlo Rossi</item>
+        <item>Carlton London </item>
+        <item>Cartier</item>
+        <item>Casio</item>
+        <item>Catwalk </item>
+        <item>Celine </item>
+        <item>Celio</item>
+        <item>Chanel</item>
+        <item>Charlotte Russe</item>
+        <item>Chic London</item>
+        <item>Chm</item>
+        <item>Choose Me</item>
+        <item>Chopard</item>
+        <item>Christian Dior</item>
+        <item>Christian Louboutin</item>
+        <item>Ciet Maintainent</item>
+        <item>Cilory</item>
+        <item>Cinnamon</item>
+        <item>Claire</item>
+        <item>Clarks</item>
+        <item>Cloe</item>
+        <item>Coach</item>
+        <item>Code</item>
+        <item>Collezioni</item>
+        <item>Confidential Couture</item>
+        <item>Cotton World</item>
+        <item>Craftsvilla</item>
+        <item>Da Milano</item>
+        <item>Da Vinci</item>
+        <item>Daisy</item>
+        <item>Debenhams</item>
+        <item>Denim Co</item>
+        <item>Dior</item>
+        <item>Disney Giordano</item>
+        <item>Divided</item>
+        <item>Divided By H&amp;M</item>
+        <item>Dkny</item>
+        <item>Dmilano</item>
+        <item>Dockers  </item>
+        <item>Dolce &amp; Gabbana </item>
+        <item>Dolce And Gabbana</item>
+        <item>Done By None</item>
+        <item>Donna Morgan</item>
+        <item>Dooney And Bourke</item>
+        <item>Dorthy Perkin</item>
+        <item>Dressberry</item>
+        <item>Dune London</item>
+        <item>Dunhill</item>
+        <item>Durby</item>
+        <item>Ed Hardy</item>
+        <item>Edc</item>
+        <item>Edgars</item>
+        <item>Everything Handmade</item>
+        <item>Evie</item>
+        <item>Evie Collection </item>
+        <item>Evoguestore</item>
+        <item>Ewa</item>
+        <item>Ezabel London</item>
+        <item>Fab Alley</item>
+        <item>Faces Cosmetics</item>
+        <item>Factory </item>
+        <item>Fad Jeans</item>
+        <item>Fahrenheit </item>
+        <item>Fashion Mill</item>
+        <item>Fashion Nova</item>
+        <item>Fashion Paris</item>
+        <item>Fastrack</item>
+        <item>Fcuk</item>
+        <item>Femella</item>
+        <item>Fendi</item>
+        <item>Fifth Avenue</item>
+        <item>Fiomi</item>
+        <item>Fiona</item>
+        <item>Forever  21</item>
+        <item>Forever New</item>
+        <item>Furla</item>
+        <item>Fusion Beats </item>
+        <item>Gas</item>
+        <item>Gauri And Nainika </item>
+        <item>Geneva</item>
+        <item>Giordano</item>
+        <item>Givenchy</item>
+        <item>Global Desi</item>
+        <item>Globus</item>
+        <item>Gripex</item>
+        <item>Gstar Raw</item>
+        <item>Guava</item>
+        <item>Gucci</item>
+        <item>Guess</item>
+        <item>Guess Jeans</item>
+        <item>H&amp;M</item>
+        <item>Harley Davidson</item>
+        <item>Harpa</item>
+        <item>Harry Potter</item>
+        <item>Hats Off</item>
+        <item>Hattiexkoovs</item>
+        <item>Hautecurry</item>
+        <item>Hermes</item>
+        <item>Herve Leger</item>
+        <item>Holi</item>
+        <item>Hollister</item>
+        <item>House</item>
+        <item>House Of Fett</item>
+        <item>Hrx</item>
+        <item>Hugo Boss</item>
+        <item>Inc.5</item>
+        <item>Jabong</item>
+        <item>Jack &amp; Jones</item>
+        <item>Jane Norman</item>
+        <item>Jc Penny</item>
+        <item>J-Crew</item>
+        <item>Jealous 21</item>
+        <item>Jefreestar </item>
+        <item>Jessica Howard</item>
+        <item>Jessica Simpson</item>
+        <item>Jimmy Choo</item>
+        <item>Jockey </item>
+        <item>Jonty Rhodes</item>
+        <item>Juicy Couture</item>
+        <item>Julie Lantry</item>
+        <item>Just Cavalli</item>
+        <item>Just My Luck</item>
+        <item>Kazo</item>
+        <item>Kenneth Cole</item>
+        <item>Kenneth Cole Reaction</item>
+        <item>Kenzo</item>
+        <item>Killer Jeans</item>
+        <item>Kook N Keech</item>
+        <item>Koovs</item>
+        <item>Kylie Cosmetics</item>
+        <item>La Senza</item>
+        <item>Label Ritu Kumar</item>
+        <item>Lakme</item>
+        <item>Lancome</item>
+        <item>Lara Karen</item>
+        <item>Latin Quarters</item>
+        <item>Lavie</item>
+        <item>Leecooper</item>
+        <item>Levis Strauss </item>
+        <item>Libas</item>
+        <item>Liebemode</item>
+        <item>Lily By Ruthie </item>
+        <item>Limeroad</item>
+        <item>Lino Perros</item>
+        <item>Loft</item>
+        <item>London Rebel</item>
+        <item>Longines</item>
+        <item>Lord &amp; Taylor</item>
+        <item>Loreal Paris</item>
+        <item>Louis Philippe</item>
+        <item>Louis Vuitton</item>
+        <item>Loumeidisha</item>
+        <item>Love 21</item>
+        <item>Love Culture </item>
+        <item>Love Machine</item>
+        <item>Lulus Usa </item>
+        <item>Luscious</item>
+        <item>M.A.C </item>
+        <item>Macys</item>
+        <item>Madame</item>
+        <item>Madden Girl</item>
+        <item>Madison</item>
+        <item>Madisson &amp; Co. </item>
+        <item>Marc Jacobs</item>
+        <item>Marco Polo</item>
+        <item>Marie Claire</item>
+        <item>Mariposa Love</item>
+        <item>Marks &amp; Spencer</item>
+        <item>Marquee</item>
+        <item>Marshalls</item>
+        <item>Masaba Gupta</item>
+        <item>Massimo Dutti</item>
+        <item>Mast &amp; Harbour</item>
+        <item>Max Studio</item>
+        <item>Maybelline</item>
+        <item>Meraki</item>
+        <item>Michael Kors</item>
+        <item>Miss Bennett London</item>
+        <item>Miss Chase</item>
+        <item>Miss Chm</item>
+        <item>Miss Clair </item>
+        <item>Miss Selfridge</item>
+        <item>Missa More</item>
+        <item>Miu Miu</item>
+        <item>Moda</item>
+        <item>Mont Blanc</item>
+        <item>Monte Carlo </item>
+        <item>Moschino</item>
+        <item>Mossimo Dutti</item>
+        <item>Muah Chic</item>
+        <item>My Foot</item>
+        <item>Myntra</item>
+        <item>Naomi Code</item>
+        <item>Nastygal</item>
+        <item>Natural </item>
+        <item>Nautica</item>
+        <item>Nayaa</item>
+        <item>N-Do</item>
+        <item>Nearby Store In Mall</item>
+        <item>Neck Piece </item>
+        <item>Necklace </item>
+        <item>Neerus</item>
+        <item>Neet  Creations</item>
+        <item>Neha Taneja </item>
+        <item>Neiman Marcus</item>
+        <item>New Look</item>
+        <item>Next</item>
+        <item>N-Gal </item>
+        <item>Nimish Shift</item>
+        <item>Nina Ricci</item>
+        <item>Nine West</item>
+        <item>Nineteen</item>
+        <item>Nishka Lulla</item>
+        <item>Noble Faith</item>
+        <item>Noisy</item>
+        <item>Numero Uno</item>
+        <item>Nuon</item>
+        <item>Nyx </item>
+        <item>Oasis</item>
+        <item>Olay</item>
+        <item>Old Navy</item>
+        <item>Omega</item>
+        <item>Only</item>
+        <item>Ovs</item>
+        <item>Pantaloons</item>
+        <item>Paprika</item>
+        <item>Park Avenue</item>
+        <item>Pavers England </item>
+        <item>Pehnawa</item>
+        <item>Pepe Jeans</item>
+        <item>Peter England</item>
+        <item>Pieces</item>
+        <item>Pipa Bella</item>
+        <item>Plus Line</item>
+        <item>Prada</item>
+        <item>Prettysecrets </item>
+        <item>Provogue</item>
+        <item>Pull And Bear</item>
+        <item>Quick Silver</item>
+        <item>Rado</item>
+        <item>Raw</item>
+        <item>Raw G-Star</item>
+        <item>Raymonds</item>
+        <item>Rdkl U</item>
+        <item>Rebekka Minkoff</item>
+        <item>Red Tape</item>
+        <item>Reebok</item>
+        <item>Ridress</item>
+        <item>Ritu Kumar</item>
+        <item>Ritu Neeva</item>
+        <item>River Island </item>
+        <item>Roberto Cavalli</item>
+        <item>Rohit Bal</item>
+        <item>Rohit Gandhi And Rahul Khanna</item>
+        <item>Rolex</item>
+        <item>Rolling Stones</item>
+        <item>Romeo Per Juliet</item>
+        <item>Russell And Bromley</item>
+        <item>S. Oliver </item>
+        <item>S.Oliver</item>
+        <item>Sally Hansen</item>
+        <item>Salvatore Ferragamo</item>
+        <item>Scullers</item>
+        <item>Simaya Boutique</item>
+        <item>Souled Store</item>
+        <item>Splash</item>
+        <item>Sportsgirl</item>
+        <item>Spring Break</item>
+        <item>Spykar</item>
+        <item>Sss</item>
+        <item>Stalk Buy Love</item>
+        <item>Steve Madden</item>
+        <item>Bershka</item>
+        <item>Berserkstyles </item>
+        <item>Berishka</item>
+        <item>Beonza</item>
+        <item>Benz</item>
+        <item>Benour</item>
+        <item>Benotti</item>
+        <item>Benetton</item>
+        <item>Bend Trend</item>
+        <item>Ben De Lisa</item>
+        <item>Belmonte</item>
+        <item>Bellucci </item>
+        <item>Belleza</item>
+        <item>Bellefille</item>
+        <item>Bellefemme</item>
+        <item>Belle Gambe</item>
+        <item>Belle File</item>
+        <item>Belle </item>
+        <item>Bellae</item>
+        <item>Bella</item>
+        <item>Belci</item>
+        <item>Belcci</item>
+        <item>Being Human </item>
+        <item>Beehives Closet</item>
+        <item>Bee Bee</item>
+        <item>Beckberg</item>
+        <item>Stfy </item>
+        <item>Beauty</item>
+        <item>Beautiful Red Necklace </item>
+        <item>Beandy </item>
+        <item>Be Kind</item>
+        <item>Be Disciple</item>
+        <item>Bcko </item>
+        <item>Street Style Store</item>
+        <item>Bcbg Max</item>
+        <item>Bcbg</item>
+        <item>Bc Bg Maxazria</item>
+        <item>Bb2 </item>
+        <item>Bay Studio</item>
+        <item>Bawree</item>
+        <item>Batman</item>
+        <item>Bata</item>
+        <item>Basurri Bridal Lehanga</item>
+        <item>Basuree</item>
+        <item>Basic T-Back</item>
+        <item>Basaa</item>
+        <item>Bareme In</item>
+        <item>Bare Kids(Pantaloons)</item>
+        <item>Bare Denim By Pantaloons</item>
+        <item>Bare Denim Basic</item>
+        <item>Bare Denim</item>
+        <item>Barcelona</item>
+        <item>Barbieri</item>
+        <item>Barbados </item>
+        <item>Baobao</item>
+        <item>Bao Boy</item>
+        <item>Bankok</item>
+        <item>Bangkok Stuff</item>
+        <item>Bangkok Market </item>
+        <item>Bangkok Brought </item>
+        <item>Bangkok Boutique</item>
+        <item>Bangalore Silk Lehenga</item>
+        <item>Bangalore Central</item>
+        <item>Bangalore Boutique </item>
+        <item>Bandra Ucb</item>
+        <item>Bandra Road</item>
+        <item>Bandra</item>
+        <item>Stuart Weitzman</item>
+        <item>Superdry</item>
+        <item>Tag Heuer</item>
+        <item>The Closet Label</item>
+        <item>Tiffany &amp; Co</item>
+        <item>Tissot</item>
+        <item>Titan</item>
+        <item>Titan Raga</item>
+        <item>Tods</item>
+        <item>Tom Ford</item>
+        <item>Tommy Hilfiger</item>
+        <item>Topshop </item>
+        <item>Tory Burch </item>
+        <item>Tresmode</item>
+        <item>Truffle Collection</item>
+        <item>Tube Girl</item>
+        <item>Tumi</item>
+        <item>United Colours Of Benetton </item>
+        <item>Urban Outfitters</item>
+        <item>Us Polo Association</item>
+        <item>Valentino</item>
+        <item>Valley Girl</item>
+        <item>Van Heusen</item>
+        <item>Vani Couture</item>
+        <item>Vanich Jeans</item>
+        <item>Vanity</item>
+        <item>Vans</item>
+        <item>Vastra By Milonee </item>
+        <item>Velvet</item>
+        <item>Velvet Army</item>
+        <item>Veni Vidi Vici</item>
+        <item>Vero Moda</item>
+        <item>Versace</item>
+        <item>Vesa Online</item>
+        <item>Victoria Secret </item>
+        <item>Villa</item>
+        <item>Vincent Chase</item>
+        <item>Vinegar</item>
+        <item>Vogue</item>
+        <item>Wallis</item>
+        <item>Westside</item>
+        <item>Wills Clublife</item>
+        <item>Wills Lifestyle </item>
+        <item>Worthington</item>
+        <item>Yepme</item>
+        <item>Yuvika Chowdhari</item>
+        <item>Yves Saint Laurent</item>
+        <item>Zabel</item>
+        <item>Zalora</item>
+        <item>Zapelle</item>
+        <item>Zara</item>
+        <item>Zink London</item>
+        <item>Zodiac</item>
+        <item>Zoomberg</item>
+        <item>Zuba</item>
+    </array>
+
+
+</resources>
